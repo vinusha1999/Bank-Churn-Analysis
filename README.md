@@ -1,8 +1,6 @@
 # Bank-Churn-Analysis
 Bank Churn Analysis using SQL
 
-## Bank Churn Analysis (MS SQL Server)
-
 ### Overview
 
 Performed customer churn analysis using SQL to explore customer behavior and identify patterns that may indicate churn risk.
