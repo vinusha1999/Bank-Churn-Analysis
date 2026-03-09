@@ -1,5 +1,4 @@
-# Bank-Churn-Analysis
-Bank Churn Analysis using SQL
+# Bank Churn Analysis - SQL
 
 ### Overview
 
