@@ -20,4 +20,7 @@ Performed customer churn analysis using SQL to explore customer behavior and ide
 
 Identified customer behavior patterns and high-value customer segments that can support churn reduction strategies and targeted business decisions.
 
+### Project Files
+
+* SQL file (.sql)
 
